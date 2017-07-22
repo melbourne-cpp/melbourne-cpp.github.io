@@ -1,0 +1,11 @@
+title: Melbourne C++
+description: Just a very basic placeholder site for now...
+github_username: melbourne-cpp
+repository: melbourne-cpp/melbourne-cpp.github.io
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+gems:
+  - jekyll-github-metadata
