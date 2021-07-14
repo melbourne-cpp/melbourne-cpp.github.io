@@ -201,7 +201,7 @@ DEPENDENCIES
   jekyll-github-metadata
 
 RUBY VERSION
-   ruby 2.3.1p112
+   ruby 2.7.2p137
 
 BUNDLED WITH
-   1.12.5
+   2.2.5
