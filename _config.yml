@@ -7,5 +7,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-gems:
+plugins:
   - jekyll-github-metadata
